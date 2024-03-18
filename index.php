@@ -20,7 +20,7 @@ $sentence='Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo do
 <body>
     <div class="container">
         <h2 class='mt-5 mb-3'> Censors</h2>
-        <form action="./server.php" method="get">
+        <form action="./server.php" method="post">
         
         <div class="mb-3">
             <label for="sentence" class="form-label">Sentence</label>
